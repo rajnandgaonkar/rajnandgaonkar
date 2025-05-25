@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working in **Zensar Technologies**
 
-- 🌱 I’m currently learning **Devops**
+- 🌱 I’m currently learning **Devops tools etc.**
 
 - 🤝 I’m looking for help with **Internal AWS Cloud Technologies**
 
