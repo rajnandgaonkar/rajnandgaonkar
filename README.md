@@ -1,89 +1,40 @@
 <h1 align="center">Hi 👋, I'm Raj Nandgaonkar</h1>
-<h3 align="center">Cloud Engineer ☁️ | DevOps Enthusiast 🚀 | Terraform ⚙️ | Docker 🐳 | Kubernetes ☸️ | Jenkins 🧪 | Git/GitHub 🛠️  | Linux 🐧 | CI/CD 🔄 | CloudFormation 🏗️ | Monitoring (Prometheus + Grafana) | Zensar Techologies </h3>
+<h3 align="center">A passionate AWS Cloud & DevOps Engineer, building scalable, automated infrastructure with tools like Terraform, Docker, Kubernetes, and more.</h3>
 
-<p align="center">
-  <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1682742022796/d2dc42f5-3074-4be7-a40f-a4176dd0b879.gif?w=1600&h=840&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" width="200"/>
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnandgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="rajnandgaonkar" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajnandgaonkar" alt="rajnandgaonkar" /></a> </p>
 
-🌐 Website: [https://rajnandgaonkar.wixsite.com/mysite](https://rajnandgaonkar.wixsite.com/mysite)  
-📫 Email: [rajnandgaonkar19@gmail.com](mailto:rajnandgaonkar19@gmail.com)  
-📍 Location: Pune, India
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
----
+- 🔭 I’m currently working in **Zensar Technologies**
 
-## 🚀 About Me
+- 🌱 I’m currently learning **Devops**
 
-- 💻 Specializing in designing scalable cloud architectures and automating infrastructure using **Terraform**, **CloudFormation**, and **Ansible**.
-- ☁️ Certified in **AWS**, **Azure**, and **Google Cloud Platform (GCP)**.
-- 🔧 Passionate about building **CI/CD pipelines**, enhancing **Monitoring**, and ensuring **Security** in DevOps practices.
-- 🐳 Experienced with **Docker** and **Kubernetes** for containerization and orchestration.
-- 🧠 Currently expanding knowledge in **AWS Core Services**, **Linux**, and **Windows Server Support**.
+- 🤝 I’m looking for help with **Internal AWS Cloud Technologies**
 
----
+- 👨‍💻 All of my projects are available at [https://rajnandgaonkar.wixsite.com/mysite](https://rajnandgaonkar.wixsite.com/mysite)
 
-## 🛠️ Tools & Technologies
+- 💬 Ask me about **AWS, Azure, GCP core and Devops tools**
 
-### 🧰 DevOps Tools
+- 📫 How to reach me **rajnandgaonkar19@gmail.com**
 
+- 📄 Know about my experiences [https://drive.google.com/file/d/1KWjRiyPHU4Ec9YtkaYdl8ghciqQvNbRe/view?usp=sharing](https://drive.google.com/file/d/1KWjRiyPHU4Ec9YtkaYdl8ghciqQvNbRe/view?usp=sharing)
+
+- Funny things **I think i am Funny**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40" alt="Kubernetes"/>
-  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" width="40" height="40" alt="Terraform"/>
-  <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" width="40" height="40" alt="Ansible"/>
-  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" width="40" height="40" alt="Jenkins"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
+<a href="https://linkedin.com/in/raj-nandgaonkar1211" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raj-nandgaonkar1211" height="30" width="40" /></a>
+<a href="https://instagram.com/raj.x2151" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raj.x2151" height="30" width="40" /></a>
 </p>
 
-### ☁️ Cloud Platforms
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
 
-<p align="left">
-  <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" width="40" height="40" alt="AWS"/>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40" height="40" alt="Azure"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40" height="40" alt="GCP"/>
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajnandgaonkar&show_icons=true&locale=en&layout=compact" alt="rajnandgaonkar" /></p>
 
----
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rajnandgaonkar&show_icons=true&locale=en" alt="rajnandgaonkar" /></p>
 
-## 📊 GitHub Stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rajnandgaonkar&" alt="rajnandgaonkar" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rajnandgaonkar&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rajnandgaonkar&theme=tokyonight" alt="GitHub Streak"/>
-</p>
-
----
-
-## 📌 Projects & Contributions
-
-### 🔧 [DevOps GCP AWS Azure Learning Tutorial](https://github.com/rathoddt/devops-gcp-aws-azure)
-
-A comprehensive tutorial covering:
-
-- **Docker** & **Kubernetes** for containerization and orchestration
-- **Terraform** & **Ansible** for Infrastructure as Code
-- **Jenkins** & **Azure DevOps** for CI/CD pipelines
-- Deployments on **AWS EKS** and **CI/CD**
-
-### 📚 [Badges and Certification](https://github.com/VishwaGauravIn/pretty-readme-badges)
-
-A curated collection of badges for GitHub profiles, including:
-
-- Cloud Certificates having like **AWS Solution Architect Certified**, 
-
-**Microsoft Azure 900**, and **AWS Cloud Practioner Cloud Quest**
-- DevOps tools knowledge such as **Docker**, **Kubernetes**, and **Terraform**,  etc.
-
----
-
-## 🌐 Connect with Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/raj-nandgaonkar1211/" target="blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="30" />
-  </a>
-  <a href="https://rajnandgaonkar.wixsite.com/mysite" target="blank">
-    <img align="center" src="https://img.icons8.com/ios-filled/50/000000/domain.png" height="30" width="30" />
-  </a>
-</p>
