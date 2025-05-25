@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raj Nandgaonkar</h1>
-<h3 align="center">A passionate AWS Cloud & DevOps Engineer, building scalable, automated infrastructure with tools like Terraform, Docker, Kubernetes, and more.</h3>
+<h3 align="center">A passionate AWS Cloud & DevOps Engineer as 3 years of Experience in Zensar Techonologies building scalable, automated infrastructure with tools like Terraform, Docker, Kubernetes, and more.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnandgaonkar&label=Profile%20views&color=0e75b6&style=flat" alt="rajnandgaonkar" /> </p>
 
