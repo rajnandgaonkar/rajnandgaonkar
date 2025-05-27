@@ -2,7 +2,7 @@
 
 ###
 
-<h5 align="center">Cloud Engineer ☁️ | DevOps Enthusiast 🚀 | Terraform ⚙️ | Docker 🐳 | Kubernetes ☸️ | Jenkins 🧪 | Git/GitHub 🛠️ | Linux 🐧 | CI/CD 🔄 | CloudFormation 🏗️ | Monitoring (Prometheus + Grafana) | Zensar</h5>
+<h5 align="center">Cloud Engineer ☁️ | DevOps Enthusiast 🚀 | Terraform ⚙️ | Docker 🐳 | Kubernetes ☸️ | Jenkins 🧪 | Git/GitHub 🛠️ | Linux 🐧 | Netwoking |CI/CD 🔄 | CloudFormation 🏗️ | Monitoring (Prometheus + Grafana) | Zensar</h5>
 
 ###
 
