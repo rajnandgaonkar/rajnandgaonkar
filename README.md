@@ -10,7 +10,7 @@
 
 ###
 
-<h5 align="left">🔭 I’m currently working in Zensar Technologies<br><br>🌱 I’m currently learning AWS Core Devops tools etc.<br><br>🤝 I’m looking for help with Internal AWS Cloud Technologies<br><br>👨‍💻 All of my projects are available at https://rajnandgaonkar.wixsite.com/mysite<br><br>💬 Ask me about AWS, Azure, GCP core and Devops tools<br><br>📫 How to reach me rajnandgaonkar19@gmail.com <br><br>📄 Know about my experiences https://drive.google.com/file/d/1KWjRiyPHU4Ec9YtkaYdl8ghciqQvNbRe/view?usp=sharing<br><br>Funny things I think i am Funny</h5>
+<h5 align="left">🔭 I’m currently working in Zensar Technologies<br><br>🌱 I’m currently learning AWS Core Devops tools etc.<br><br>🤝 I’m looking for help with Internal AWS Cloud Technologies<br><br>👨‍💻 All of my projects are available at https://rajnandgaonkar.wixsite.com/mysite<br><br>💬 Ask me about AWS, Azure, GCP core and Devops tools<br><br>📫 How to reach me rajnandgaonkar19@gmail.com <br><br>📄 Know about my experiences https://drive.google.com/file/d/19oCW3ua59s2sam2RXjBnRYxqddRa9_fc/view?usp=drive_link<br><br>Funny things I think i am Funny</h5>
 
 ###
 
@@ -101,3 +101,4 @@
 </div>
 
 ###
+
